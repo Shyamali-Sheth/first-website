@@ -1,8 +1,7 @@
-project:
+project: 
   type: website
-
 website:
-  title: "Rstudio"
+  title: "A New Website, second addition"
   navbar:
     left:
       - href: index.qmd
