@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
-
+## About Me
+My name is **Shyamali Sheth** and I go to **Carmel High School**
 Shyamali Sheth
+
+[Kane's Free Data Science Bootcamp] (https://bootcamp.davidkane.info)
